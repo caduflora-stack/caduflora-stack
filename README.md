@@ -37,6 +37,22 @@ Comprime **2-3 meses de discovery senior em 1-2 semanas de execução solo**. Pr
 
 ---
 
+### 📋 [user-stories-toolkit — PRD aprovado em backlog estruturado via IA](https://github.com/caduflora-stack/user-stories-toolkit)
+
+Toolkit que transforma **PRD aprovado em épicos + user stories** com critérios de aceite Gherkin agrupados por tema, **critério de rejeição obrigatório** (diferencial), KPIs com baseline, estimativa T-shirt (PM) separada de Story Points (refinamento técnico), e mitigação CONCRETA de riscos. Inclui agente IA + template anotado + 2 exemplos preenchidos (SaaS B2B + Fintech).
+
+`#product-management` `#user-stories` `#gherkin` `#prd` `#ai-agents`
+
+---
+
+### 🔺 [pyramid-comms — Comunicação executiva via Pyramid Principle (Minto)](https://github.com/caduflora-stack/pyramid-comms)
+
+Skill open source pra reescrever qualquer comunicação executiva (Slack, email, deck, fala) usando o **Pyramid Principle de Barbara Minto** (McKinsey). Cola o prompt, cola texto bagunçado, recebe versão pronta + diagnóstico do que mudou e por quê. Modo Revisor (rápido) + modo Coach (socrático, pra aprender). Funciona em qualquer LLM.
+
+`#executive-communication` `#minto` `#stakeholder-management` `#ai-tooling`
+
+---
+
 ### 🧭 [Squad de Aquisição Comunitária — sem orçamento de mídia](https://github.com/caduflora-stack/squad-aquisicao-comunitaria)
 
 Squad de 4 agentes IA pra abrir aquisição qualificada via **parceria barter** (sem CAC) em comunidades onde sua persona alvo já está reunida. Funciona pra fintech, SaaS B2B, edtech, DTC, agência.
