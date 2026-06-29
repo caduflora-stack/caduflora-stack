@@ -21,6 +21,14 @@ A tese: **60-70% do trabalho de PM Sênior é síntese de informação textual**
 
 ## 📦 Open source
 
+### 📊 [reports with AI — Engenharia de observabilidade pra não-engenheiros](https://github.com/caduflora-stack/reportswithAI)
+
+Guia prático de como **construir uma infraestrutura completa de reports + observabilidade em ~3 meses, custo zero, sem saber programar** — usando IA como copiloto. Pra profissionais de Produto, Ops, BI e RH que precisam camada de dado autônoma sem depender de eng. 5 partes: filosofia, framework de decisão, 8 padrões técnicos reusáveis, 10 pegadinhas comuns, anexos com checklist + stack recomendada.
+
+`#observability` `#reporting` `#product-ops` `#ai-as-copilot` `#non-engineer`
+
+---
+
 ### 🔷 [Prism — Squad de 9 agentes IA pra Discovery de Produto](https://github.com/caduflora-stack/prism-discovery-squad)
 
 Comprime **2-3 meses de discovery senior em 1-2 semanas de execução solo**. Pra PM Sênior em Scale-up. Output: PRD pronto pra Eng+Design + Tese executiva pro board + Plano de validação.
