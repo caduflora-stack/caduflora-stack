@@ -1,0 +1,17 @@
+# Notas internas e materiais pessoais (não publicar)
+posts-linkedin/
+drafts/
+notas-internas/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Misc
+node_modules/
+.env
+.env.local
+*.log
