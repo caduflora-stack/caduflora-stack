@@ -23,6 +23,14 @@ A tese: **Boa parte do trabalho de uma pessoa de Produto é síntese de informa�
 
 ## 📦 Open source
 
+### 🗓️ [secretario-reunioes · Reuniões do Granola viram docs no Google Drive](https://github.com/caduflora-stack/secretario-reunioes)
+
+Servidor **MCP** que transforma suas reuniões gravadas no **Granola** em documentos organizados no **Google Drive**: um Google Doc de resumo por reunião + um doc mestre acumulativo de to-dos. Você conversa ("processa as reuniões de hoje") em qualquer cliente MCP (Claude Code, Claude Desktop, Cowork) ou clica num app web local que roda na sua máquina. Sem chave de API extra no modo MCP: quem raciocina é o modelo do seu próprio cliente.
+
+`#mcp` `#meeting-notes` `#automation` `#ai` `#letsgrowtogether`
+
+---
+
 ### 📊 [reports with AI — Engenharia de observabilidade pra não-engenheiros](https://github.com/caduflora-stack/reportswithAI)
 
 Guia prático de como **construir uma infraestrutura completa de reports + observabilidade, custo praticamente zero, sem saber programar** — usando IA como copiloto. Pra profissionais de Produto, Ops, BI, etc que precisam camada de dado autônoma sem depender de eng. 5 partes: filosofia, framework de decisão, 8 padrões técnicos reusáveis, 10 pegadinhas comuns, anexos com checklist + stack recomendada.
